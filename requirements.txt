@@ -1,0 +1,10 @@
+PyYAML
+streamlit
+yfinance
+pandas
+numpy
+scikit-learn
+newsapi-python
+plotly
+nltk
+bcrypt
