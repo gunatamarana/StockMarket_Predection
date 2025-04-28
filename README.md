@@ -72,4 +72,6 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Contact
 For any queries or collaborations:
-Tamarana Guna| gunatamarana@gmail.com
+Tamarana Guna| gunatamarana@gmail.com | https://www.linkedin.com/in/tamaranaguna
+
+
